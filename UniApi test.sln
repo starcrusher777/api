@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniApi test", "UniApi test\UniApi test.csproj", "{8777A36E-2A2C-4236-8907-42E7EBA004FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBot", "TelegramBot\TelegramBot.csproj", "{FB136486-76C9-44E5-97A1-1E5493BD8188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordBot", "DiscordBot\DiscordBot.csproj", "{ED546A6A-02DC-477B-B0E1-BCE7164D954F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{5CB2DA2C-8464-4CFD-A733-A028C261A63A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8777A36E-2A2C-4236-8907-42E7EBA004FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8777A36E-2A2C-4236-8907-42E7EBA004FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8777A36E-2A2C-4236-8907-42E7EBA004FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8777A36E-2A2C-4236-8907-42E7EBA004FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB136486-76C9-44E5-97A1-1E5493BD8188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB136486-76C9-44E5-97A1-1E5493BD8188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB136486-76C9-44E5-97A1-1E5493BD8188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB136486-76C9-44E5-97A1-1E5493BD8188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED546A6A-02DC-477B-B0E1-BCE7164D954F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED546A6A-02DC-477B-B0E1-BCE7164D954F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED546A6A-02DC-477B-B0E1-BCE7164D954F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED546A6A-02DC-477B-B0E1-BCE7164D954F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB2DA2C-8464-4CFD-A733-A028C261A63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB2DA2C-8464-4CFD-A733-A028C261A63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB2DA2C-8464-4CFD-A733-A028C261A63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB2DA2C-8464-4CFD-A733-A028C261A63A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

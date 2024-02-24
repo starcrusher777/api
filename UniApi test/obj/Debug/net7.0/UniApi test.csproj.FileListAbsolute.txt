@@ -1,0 +1,52 @@
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\obj\Debug\net7.0\UniApi test.csproj.AssemblyReference.cache
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\obj\Debug\net7.0\UniApi test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\obj\Debug\net7.0\UniApi test.AssemblyInfoInputs.cache
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\obj\Debug\net7.0\UniApi test.AssemblyInfo.cs
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\obj\Debug\net7.0\UniApi test.csproj.CoreCompileInputs.cache
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\UniApi test.exe
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\UniApi test.deps.json
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\UniApi test.runtimeconfig.json
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\UniApi test.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\UniApi test.pdb
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Discord.Net.Commands.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Discord.Net.Core.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Discord.Net.Interactions.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Discord.Net.Rest.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Discord.Net.Webhook.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Discord.Net.WebSocket.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\System.Web.Http.WebHost.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Newtonsoft.Json.Schema.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\NLog.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Polly.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Polly.Extensions.Http.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Swashbuckle.Core.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\System.Interactive.Async.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\System.Linq.Async.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\System.Reactive.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Telegram.Bot.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Telegram.Bots.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Telegram.Bots.Extensions.AspNetCore.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\Telegram.Bots.Extensions.Polling.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\bin\Debug\net7.0\WebActivatorEx.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\obj\Debug\net7.0\UniApi test.csproj.CopyComplete
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\obj\Debug\net7.0\UniApi test.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\obj\Debug\net7.0\refint\UniApi test.dll
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\obj\Debug\net7.0\UniApi test.pdb
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\obj\Debug\net7.0\UniApi test.genruntimeconfig.cache
+C:\Users\Ян\RiderProjects\UniApi test\UniApi test\obj\Debug\net7.0\ref\UniApi test.dll

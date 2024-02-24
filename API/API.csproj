@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <RootNamespace>Test.API</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.13"/>
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+        <PackageReference Include="Refit" Version="7.0.0" />
+        <PackageReference Include="Refit.HttpClientFactory" Version="7.0.0" />
+        <PackageReference Include="Refit.Newtonsoft.Json" Version="7.0.0" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Pages\ProcessComand\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Remove="Pages\ProcessComand\Index.cshtml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="Controllers\WeatherForecastController.cs" />
+      <Compile Remove="Connector\Commands.cs" />
+    </ItemGroup>
+
+</Project>
