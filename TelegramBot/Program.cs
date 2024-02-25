@@ -58,7 +58,7 @@ namespace UniApiTest
 
         public static async Task Main(string[] args)
         {
-            var botToken = "6749630831:AAGO22cWjqeviJ5IMZ9ghmNHVmQLOjADJWs";
+            var botToken = "token";
             
             _botClient = new TelegramBotClient(botToken);
             

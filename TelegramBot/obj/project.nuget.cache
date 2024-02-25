@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WJ+SUwCj5Xo8a9WLmwN/PlwQgxQQImoMuPrPHfIszWFXALiqpxTd92QNOR/BhsBT2p+tT+WJW3Tyv0iDnkbECg==",
+  "dgSpecHash": "GgiP7mk2NOTrb9uXzelMDtF4Ox2FN5OiBX+/UrAZ/eAUB9E698mZ7oUDZCXiG0GRjZyevGwqM0xA3YAeReIhGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ян\\RiderProjects\\UniApi test\\TelegramBot\\TelegramBot.csproj",
+  "projectFilePath": "C:\\Users\\Ян\\RiderProjects\\api\\TelegramBot\\TelegramBot.csproj",
   "expectedPackageFiles": [
     "C:\\.nuget\\discord.net.core\\3.13.0\\discord.net.core.3.13.0.nupkg.sha512",
     "C:\\.nuget\\discord.net.rest\\3.13.0\\discord.net.rest.3.13.0.nupkg.sha512",

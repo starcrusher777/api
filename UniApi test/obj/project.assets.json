@@ -3192,11 +3192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ян\\RiderProjects\\UniApi test\\UniApi test\\UniApi test.csproj",
+      "projectUniqueName": "C:\\Users\\Ян\\RiderProjects\\api\\UniApi test\\UniApi test.csproj",
       "projectName": "UniApi test",
-      "projectPath": "C:\\Users\\Ян\\RiderProjects\\UniApi test\\UniApi test\\UniApi test.csproj",
+      "projectPath": "C:\\Users\\Ян\\RiderProjects\\api\\UniApi test\\UniApi test.csproj",
       "packagesPath": "C:\\.nuget",
-      "outputPath": "C:\\Users\\Ян\\RiderProjects\\UniApi test\\UniApi test\\obj\\",
+      "outputPath": "C:\\Users\\Ян\\RiderProjects\\api\\UniApi test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ян\\AppData\\Roaming\\NuGet\\NuGet.Config",

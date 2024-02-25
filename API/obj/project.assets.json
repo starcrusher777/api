@@ -1215,11 +1215,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ян\\RiderProjects\\UniApi test\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Ян\\RiderProjects\\api\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Ян\\RiderProjects\\UniApi test\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Ян\\RiderProjects\\api\\API\\API.csproj",
       "packagesPath": "C:\\.nuget",
-      "outputPath": "C:\\Users\\Ян\\RiderProjects\\UniApi test\\API\\obj\\",
+      "outputPath": "C:\\Users\\Ян\\RiderProjects\\api\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ян\\AppData\\Roaming\\NuGet\\NuGet.Config",

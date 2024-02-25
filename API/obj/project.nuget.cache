@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nPDDZrp2evMZzT2cH6QSQUbMksPkdfeptlWuvRnvqVt/pmCIMJ7Xz3zhOEJPQK99tIk45s6N5RCwkQM1AxavJA==",
+  "dgSpecHash": "ZT/e3SCNkEvVOtV0ZDX2yX8qm3YrFN4boc3nyuOF+XKBBjLmqcWtpjdv0WfD9hMOMUPiOMPXL/U6AIxIkXhujQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ян\\RiderProjects\\UniApi test\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Ян\\RiderProjects\\api\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\.nuget\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
     "C:\\.nuget\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

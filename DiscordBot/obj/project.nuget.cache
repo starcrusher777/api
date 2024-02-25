@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X2pwd3e4SmlKUi2o+V37bJoQPUdfcUgFKMVSfdqf7W7F19cbsXw+O7eOvzCBu28hL9H9G8Znccp7IKY9Roc5fQ==",
+  "dgSpecHash": "wMnwA+B+ZoDDwgdj2G0NmwB3Rc2RBFpCnHG85dlG475JD+SUcpNMQSXlqznRL7QQVS1VGTWi8AJaq9rnqNAZDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ян\\RiderProjects\\UniApi test\\DiscordBot\\DiscordBot.csproj",
+  "projectFilePath": "C:\\Users\\Ян\\RiderProjects\\api\\DiscordBot\\DiscordBot.csproj",
   "expectedPackageFiles": [
     "C:\\.nuget\\discord.net.commands\\3.13.0\\discord.net.commands.3.13.0.nupkg.sha512",
     "C:\\.nuget\\discord.net.core\\3.13.0\\discord.net.core.3.13.0.nupkg.sha512",
