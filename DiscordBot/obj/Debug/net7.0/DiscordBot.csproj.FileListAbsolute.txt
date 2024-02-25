@@ -41,3 +41,4 @@ C:\Users\Ян\RiderProjects\UniApi test\DiscordBot\bin\Debug\net7.0\Swashbuckle.
 C:\Users\Ян\RiderProjects\UniApi test\DiscordBot\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Ян\RiderProjects\UniApi test\DiscordBot\bin\Debug\net7.0\API.dll
 C:\Users\Ян\RiderProjects\UniApi test\DiscordBot\bin\Debug\net7.0\API.pdb
+C:\Users\Ян\RiderProjects\UniApi test\DiscordBot\obj\Debug\net7.0\DiscordBot.sourcelink.json

@@ -42,3 +42,4 @@ C:\Users\Ян\RiderProjects\UniApi test\TelegramBot\bin\Debug\net7.0\Microsoft.E
 C:\Users\Ян\RiderProjects\UniApi test\TelegramBot\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Ян\RiderProjects\UniApi test\TelegramBot\bin\Debug\net7.0\System.Interactive.Async.dll
 C:\Users\Ян\RiderProjects\UniApi test\TelegramBot\bin\Debug\net7.0\System.Linq.Async.dll
+C:\Users\Ян\RiderProjects\UniApi test\TelegramBot\obj\Debug\net7.0\TelegramBot.sourcelink.json

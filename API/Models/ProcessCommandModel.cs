@@ -3,5 +3,5 @@
 public class ProcessCommandModel
 {
     public string Text { get; set; }
-    public long UserId { get; set; }
+    public ulong UserId { get; set; }
 }

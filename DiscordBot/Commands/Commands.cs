@@ -74,48 +74,51 @@ public class ExampleCommands : InteractionModuleBase<SocketInteractionContext>
         return textChannel.Id;
     }
     
-    [SlashCommand("process", "enter command to process")]
-    public async Task ProcessCommand(SocketUser user, SocketTextChannel textChannel, string text)
+    public ulong GetUserIdFromUser(SocketUser user)
+    {
+        return user.Id;
+    }
+
+    public async Task<ProcessCommandModel> ProcessCommand(SocketUser user, string text)
     {
         try
         {
             var command = text;
             var userId = user.Id.ToString();
-            var userIdLong = long.Parse(userId);
-            var channelId = GetChannelIdFromTextChannel(textChannel);
+            var userIdLong = ulong.Parse(userId);
             var commandModel = new ProcessCommandModel()
             {
                 Text = command,
                 UserId = userIdLong
             };
-            await RespondAsync($"**{command}**");
-            await SendCommandToApi(commandModel, channelId);
+            return commandModel;
         }
         catch (Exception ex)
         {
             Console.WriteLine($"Error processing command: {ex}");
             throw;
         }
-    }
-
-    private async Task SendCommandToApi(ProcessCommandModel commandModel, ulong channelId)
-    {
-        try
+        
+        [SlashCommand("process", "enter command to process")]
+        async Task SendCommandToApi(SocketUser user, SocketTextChannel textChannel, string text)
         {
-            var commandApi = RestService.For<ICommandApi>("http://localhost:5285/api/");
-            var commandJson = JsonConvert.SerializeObject(commandModel);
-            var channel = _client.GetChannel(channelId) as ISocketMessageChannel;
-            if (channel != null)
+            try
             {
-                var response = await commandApi.ProcessCommandAsync(commandJson);
-                
-                await channel.SendMessageAsync(response);
+                var commandModel = await ProcessCommand(user, text);
+                var commandApi = RestService.For<ICommandApi>("http://localhost:5285/api/");
+                var channel = GetChannelIdFromTextChannel(textChannel);
+                if (channel != null)
+                {
+                    var response = await commandApi.ProcessCommandAsync(commandModel);
+
+                    await RespondAsync($"{response}");
+                }
             }
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine($"Error sending command to API: {ex}");
-            throw;
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error sending command to API: {ex}");
+                throw;
+            }
         }
     }
 }

@@ -37,3 +37,4 @@ C:\Users\Ян\RiderProjects\UniApi test\API\obj\Debug\net7.0\API.genruntimeconfi
 C:\Users\Ян\RiderProjects\UniApi test\API\obj\Debug\net7.0\ref\API.dll
 C:\Users\Ян\RiderProjects\UniApi test\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Ян\RiderProjects\UniApi test\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ян\RiderProjects\UniApi test\API\obj\Debug\net7.0\API.sourcelink.json

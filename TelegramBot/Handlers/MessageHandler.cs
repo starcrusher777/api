@@ -81,10 +81,12 @@ public class MessageHandler
         var splittedMsg = (string.IsNullOrEmpty(message.Text) ? message.Caption : message.Text).Split(' ').ToList();
         splittedMsg.RemoveAt(0);
         var text = string.Join(" ", splittedMsg);
+        var userId = message.From.Id.ToString();
+        var userIdUlong = ulong.Parse(userId);
         ProcessCommandModel commandModel = new ProcessCommandModel()
         {
             Text = text,
-            UserId = message.From.Id
+            UserId = userIdUlong
         };
         return commandModel;
     }
